@@ -1,5 +1,0 @@
-Create a script to generate a mearge conflict. 
-Create muliple braches and push changes for each branch into remote repo. 
-Create a script to clone remote repo and check out all existing remote branch. 
-Clone a particular folder from a remote opstree.solution. 
-
